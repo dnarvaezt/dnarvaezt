@@ -14,7 +14,8 @@
 ---
 
 ### 🧑‍💼 Perfil Profesional
-Soy un desarrollador de software enfocado en transformar ideas en soluciones innovadoras que mejoran la vida de los usuarios. Mi especialidad radica en el diseño y desarrollo de interfaces atractivas y funcionales, utilizando metodologías ágiles para entregar proyectos de alta calidad en tiempo y forma. Con experiencia en la implementación de patrones de diseño y programación orientada a objetos, garantizo soluciones flexibles y escalables que optimizan procesos y generan impacto positivo. Mi compromiso con la excelencia se refleja en la entrega de aplicaciones que superan expectativas y brindan una experiencia placentera y fluida para los usuarios.
+
+Soy un desarrollador de software enfocado en transformar ideas en soluciones innovadoras que mejoran la vida de los usuarios. Mi enfoque se centra en el diseño y desarrollo de interfaces atractivas y funcionales, utilizando metodologías ágiles para entregar proyectos de alta calidad en tiempo y forma. Con habilidades en arquitectura hexagonal, implementación de patrones de diseño y programación orientada a objetos, garantizo soluciones flexibles y escalables que optimizan procesos y generan un impacto positivo. Soy un profesional comprometido con la excelencia, enfocado en superar expectativas y brindar una experiencia placentera y fluida para los usuarios, siempre dispuesto a contribuir con mis conocimientos y habilidades en un entorno colaborativo y desafiante para alcanzar los objetivos organizacionales.
 
 ---
 
