@@ -9,7 +9,7 @@
 
 - **Email**: dnarvaez@unimayor.edu.co
 - **LinkedIn**: [dnarvaezt](https://www.linkedin.com/in/dnarvaezt)
-- **Ubicación**: Popayán, Cauca, Colombia
+- **Ubicación**: Colombia
 
 ---
 
