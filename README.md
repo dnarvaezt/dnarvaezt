@@ -1,9 +1,4 @@
-
-
-
-## **DAVID NARVAEZ**
-
-**Ingeniero de Software Senior | Especialista Frontend**
+## Ingeniero de Software Senior | Especialista Frontend
 
 ### 📞 Contacto
 
