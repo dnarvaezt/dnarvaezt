@@ -16,17 +16,19 @@ Soy un ingeniero de software enfocado en transformar ideas en soluciones innovad
 
 ### 🔧 Habilidades Técnicas
 
-**Desarrollo Frontend:** JavaScript, TypeScript, Angular, React, StencilJS, Ionic, Web Components, StoryBook, PWA, Single-SPA, Module Federation
+**Desarrollo Frontend:** JavaScript, TypeScript, Angular, React, StencilJS, Ionic, Web Components, Single-spa, Module
+federation, Webpack, PWA, StoryBook
 
-**Desarrollo Backend:** C#, .NET, Python, Django, Java, SQL, NoSQL
+**Desarrollo Backend:** C#, .NET, Python, Django, Java, Bases de datos SQL y NoSQL
 
-**Arquitectura y Patrones:** Microfrontends, Microservicios, Hexagonal Architecture
+**Arquitectura y Patrones:** Microfrontends, Hexagonal Architecture, Clean Architecture, Domain-Driven
+Design, Test-Driven Development
 
 **Herramientas de Desarrollo:** Docker, Git, Webpack, Yeoman
 
 **Gestión de Estilos y Diseño:** HTML, CSS, SASS, Bootstrap, jQuery
 
-**Otros Conocimientos:** Auth0, Linux
+**Otros Conocimientos:** Auth0, Linux, Photoshop, monorepo
 
 ---
 
