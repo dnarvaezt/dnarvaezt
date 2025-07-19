@@ -29,6 +29,8 @@ Design, Test-Driven Development
 
 **Otros Conocimientos:** Auth0, Linux, Photoshop, monorepo
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnarvaezt&layout=compact&theme=tokyonight)
+
 ---
 
 ### 🌟 Experiencia Profesional
