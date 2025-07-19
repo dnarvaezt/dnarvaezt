@@ -9,17 +9,8 @@
 ---
 
 ### 🧑‍💼 Perfil Profesional
+Soy ingeniero informático motivado por el desafío de construir soluciones que transformen la forma en que las organizaciones crean, escalan y entregan valor. A lo largo de mi carrera he diseñado e implementado arquitecturas modulares, escalables y sostenibles que han permitido a distintos equipos desarrollar productos de forma ágil, ordenada y coherente. Disfruto crear sistemas que no solo funcionan, sino que evolucionan con el negocio, mejoran la experiencia del usuario y fortalecen la visión del producto. He liderado la creación de design systems, desarrollado frameworks propios y contribuido en transformaciones clave que han impulsado el crecimiento y la eficiencia operativa de los productos en los que participo. Para mí, escribir código va más allá de resolver problemas técnicos: es una oportunidad para diseñar con propósito, colaborar con otros y construir estructuras sólidas que permitan escalar con claridad y sentido.
 
-Soy ingeniero informático motivado por el desafío de construir soluciones que transformen la forma en que
-las organizaciones crean, escalan y entregan valor. A lo largo de mi carrera he diseñado e implementado
-arquitecturas modulares, escalables y sostenibles que han permitido a distintos equipos desarrollar
-productos de forma ágil, ordenada y coherente. Disfruto crear sistemas que no solo funcionan, sino que
-evolucionan con el negocio, mejoran la experiencia del usuario y fortalecen la visión del producto.
-He liderado la creación de design systems, desarrollado frameworks propios y contribuido en
-transformaciones clave que han impulsado el crecimiento y la eficiencia operativa de los productos en los
-que participo. Para mí, escribir código va más allá de resolver problemas técnicos: es una oportunidad para
-diseñar con propósito, colaborar con otros y construir estructuras sólidas que permitan escalar con claridad
-y sentido.
 ---
 
 ### 🔧 Habilidades Técnicas
