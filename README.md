@@ -1,46 +1,93 @@
+```markdown
 # 👋 Hola, soy David Narváez
-### Senior Software Engineer | Software Architecture | Full Stack | AI Engineering
 
-🚀 Construyo y evoluciono productos digitales **end-to-end**, desde frontend y APIs hasta arquitectura, integración y plataformas de software.
+### Senior Software Engineer · Software Architecture · AI Engineering
 
-Mi enfoque combina **arquitectura, producto y ejecución técnica** para transformar sistemas complejos en soluciones mantenibles, escalables y fáciles de evolucionar.
+Construyo software y arquitecturas que ayudan a **productos y equipos a crecer sin convertir la complejidad en deuda técnica**.
 
----
+Durante mi carrera he trabajado en productos SaaS y plataformas digitales, diseñando **microfrontends, design systems, arquitecturas modulares y sistemas desacoplados**, además de participar en procesos de modernización y evolución de plataformas.
 
-## 📬 Contacto
-
-[![Email Badge](https://img.shields.io/badge/Email-dnarvaeza842%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:dnarvaeza842@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-dnarvaezt-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnarvaezt)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-dnarvaezt-181717?style=flat&logo=github&logoColor=white)](https://github.com/dnarvaezt)
-[![Location Badge](https://img.shields.io/badge/Ubicación-Popayán%2C%20Colombia-green?style=flat&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Popayan,+Cauca,+Colombia)
+Actualmente exploro también **AI Engineering**, especialmente agentes, integración de modelos y nuevas formas de construir software con IA.
 
 ---
 
-## 🧑‍💼 Perfil Profesional
+## 🧭 Sobre mí
 
-🌐 Experiencia en **software engineering, arquitectura y plataformas frontend**, trabajando con sistemas complejos y productos SaaS en crecimiento.
+Me interesa especialmente el punto donde **software, arquitectura y producto** se encuentran.
 
-🏗️ He diseñado y evolucionado **arquitecturas modulares, microfrontends, design systems, cores desacoplados y arquitecturas hexagonales**, buscando autonomía entre equipos y reducción de acoplamientos.
+Me gusta entender cómo funciona un sistema antes de modificarlo, identificar dónde existe complejidad innecesaria y diseñar soluciones que puedan evolucionar con el tiempo.
 
-🧩 Mi experiencia incluye **modernización y desacoplamiento progresivo de plataformas**, análisis de sistemas existentes y evolución incremental de arquitecturas.
+Mis principales áreas de trabajo:
 
-🤖 Actualmente trabajo también en **AI Engineering**, explorando arquitecturas de agentes, LangGraph, integración de modelos, MCP y herramientas de desarrollo asistido por IA.
-
-📐 Incorporo **Spec-Driven Development y OpenSpec** para estructurar requisitos, cambios técnicos, criterios de aceptación y validación de implementaciones.
-
-🎯 Mi enfoque combina **visión arquitectónica y ejecución técnica**, buscando soluciones claras, mantenibles y alineadas con las necesidades reales del producto.
+- 🏗️ **Software Architecture**
+- 🖥️ **Frontend Architecture**
+- 🧩 **Microfrontends & Modular Systems**
+- 🎨 **Design Systems**
+- 🤖 **AI Engineering & AI Agents**
+- 🔄 **System Modernization**
+- 🧪 **Software Quality & Testing**
+- 📐 **Spec-Driven Development**
 
 ---
 
-## 🔧 Habilidades Técnicas
+## 🚀 Lo que he construido
 
-### Software Engineering
+A lo largo de mi carrera he trabajado en:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- Arquitecturas de **microfrontends** para productos SaaS.
+- **Design Systems** utilizados por múltiples equipos.
+- Cores de aplicación basados en **arquitectura hexagonal**.
+- Sistemas modulares y desacoplados.
+- Procesos de modernización y migración de sistemas existentes.
+- Frameworks internos y librerías reutilizables.
+- Integraciones entre frontend, backend y servicios.
+- Plataformas y herramientas orientadas a **AI Engineering**.
+- Automatización y testing E2E con **Playwright**.
+
+También creé **Componark**, un framework en Vanilla JavaScript para reutilizar Web Components y gestionar su ciclo de vida.
+
+---
+
+## 🤖 AI Engineering
+
+Actualmente estoy explorando cómo la IA puede cambiar la forma en que construimos software.
+
+Trabajo con:
+
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)
+
+- AI Agents
+- LangGraph
+- Model Integration
+- MCP
+- Local LLMs
+- AI-assisted Development
+- Spec-Driven Development
+- OpenSpec
+
+Mi interés no está únicamente en usar modelos, sino en **diseñar sistemas de software donde la IA pueda integrarse de forma estructurada y mantenible**.
+
+---
+
+## 🛠️ Tecnologías
+
+### Frontend
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Web Components](https://img.shields.io/badge/-Web%20Components-29ABE2?style=flat)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -49,59 +96,32 @@ Mi enfoque combina **arquitectura, producto y ejecución técnica** para transfo
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge-/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 
-### Architecture
+### Arquitectura
 
-- Domain-Driven Design (DDD)
+- Domain-Driven Design
 - Hexagonal Architecture
 - Clean Architecture
 - Modular Architecture
 - Microfrontends
 - Monorepos
 - Event-Driven Architecture
-- System Modernization
-- System Archaeology
 - Design Systems
 - Atomic Design
-- Web Components
+- System Modernization
 
-### Frontend Architecture
+### Calidad
 
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
-
-- Module Federation
-- Single-spa
-- PWA
-- React
-- Angular
-- Design Systems
-- Web Components
-
-### AI Engineering
-
-- Claude
-- Claude Code
-- Cursor
-- Gemini
-- Ollama
-- LangGraph
-- AI Agents
-- MCP
-- Model Integration
-- AI-assisted Software Development
-
-### Engineering Quality
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
 - TDD
-- Playwright
-- Vitest
 - Automated Testing
-- Code Review
+- E2E Testing
 - Architecture Audits
-- E2E Optimization
+- Code Review
 - Technical Debt Reduction
 
-### Platform & Delivery
+### Platform
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -112,59 +132,37 @@ Mi enfoque combina **arquitectura, producto y ejecución técnica** para transfo
 - Git
 - CI/CD
 - REST APIs
-- SQL
 - PostgreSQL
 - SQL Server
-- NoSQL
 - Redis
 
-### Engineering Practices
-
-- Spec-Driven Development
-- OpenSpec
-- Acceptance Criteria
-- ADRs
-- Technical Documentation
-- Architecture Decision Making
-
 ---
 
-## 🌟 Experiencia Profesional
+## 💼 Experiencia
 
 ### UBITS
-**Senior Software Engineer · Mayo 2022 – Actualidad**
+**Senior Software Engineer · 2022 – Actualidad**
 
-- Lideré el diseño y evolución de la arquitectura frontend de la plataforma, enfocándome en escalabilidad, mantenibilidad y autonomía de equipos.
-- Diseñé e implementé un **Design System basado en Atomic Design** utilizado por múltiples equipos y productos.
-- Definí una arquitectura de **microfrontends desacoplada**, permitiendo desarrollo paralelo y despliegues independientes.
-- Construí un **core frontend basado en arquitectura hexagonal**, separando dominio, infraestructura y presentación.
-- Participé en la **desacoplación progresiva de Moodle** y en la construcción de un LMS propio.
-- Construí librerías y soluciones transversales para diferentes productos del ecosistema.
-- Trabajo en **AI Engineering**, incluyendo agentes, LangGraph, integración de modelos y flujos event-driven.
-- Incorporé **Spec-Driven Development y OpenSpec** para estructurar cambios, requisitos y validaciones.
-- Participé en iniciativas de calidad mediante testing automatizado, auditoría de arquitectura y optimización de E2E.
+Arquitectura frontend, microfrontends, Design Systems, core hexagonal, modernización de plataformas, desacoplamiento de Moodle, AI Engineering y Spec-Driven Development.
 
 ### SIIGO
-**Full Stack Developer SSR · Diciembre 2020 – Mayo 2022**
+**Full Stack Developer SSR · 2020 – 2022**
 
-- Participé en la evolución de una plataforma SaaS con presencia en múltiples países.
-- Trabajé en **Design Systems y microfrontends** para múltiples equipos y módulos.
-- Contribuí a la expansión de la plataforma al **mercado mexicano**.
-- Participé en la internacionalización de funcionalidades como **nómina, facturación electrónica e inventarios**.
-- Colaboré con Producto, Backend y QA para mantener calidad, performance y estabilidad.
+Desarrollo full stack, Design Systems, microfrontends e internacionalización de funcionalidades para una plataforma SaaS con presencia en múltiples países.
 
 ### SERVAGRO
-**Full Stack Developer · Septiembre 2018 – Diciembre 2020**
+**Full Stack Developer · 2018 – 2020**
 
-- Diseñé desde cero una arquitectura de **microfrontends independiente de frameworks**.
-- Construí un **Design System y core de aplicación desacoplado**.
-- Creé **Componark**, un framework en Vanilla JavaScript para reutilización y gestión del ciclo de vida de Web Components.
-- Implementé microservicios, librerías compartidas y sistemas de reportes.
-- Desarrollé soluciones para sectores como seguridad privada y contabilidad.
+Arquitecturas modulares, microfrontends, Web Components, Design Systems, microservicios y desarrollo de Componark.
+
+### E-TEKNIK SAS
+**Full Stack Developer · 2018**
+
+Desarrollo de soluciones para gestión académica y sistemas educativos.
 
 ---
 
-## 🎓 Educación
+## 🎓 Formación
 
 **Ingeniería Informática**  
 Institución Universitaria Colegio Mayor del Cauca
@@ -173,18 +171,15 @@ Institución Universitaria Colegio Mayor del Cauca
 Institución Universitaria Colegio Mayor del Cauca
 
 **Técnico en Mantenimiento de Equipos de Cómputo**  
-Servicio Nacional de Aprendizaje — SENA
+SENA
 
 ---
 
-## 🧠 Áreas de Interés
+## 📬 Conecta conmigo
 
-- Software Architecture
-- Frontend Architecture
-- AI Engineering
-- Agentic Systems
-- Platform Engineering
-- System Modernization
-- Developer Experience
-- Design Systems
-- Spec-Driven Development
+[![Email](https://img.shields.io/badge/Email-dnarvaeza842%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:dnarvaeza842@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dnarvaezt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnarvaezt)
+[![GitHub](https://img.shields.io/badge/GitHub-dnarvaezt-181717?style=flat&logo=github&logoColor=white)](https://github.com/dnarvaezt)
+
+📍 Popayán, Colombia
+```
